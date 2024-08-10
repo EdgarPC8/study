@@ -17,8 +17,6 @@ export const jwt = () => {
 };
 
 export const urlPhotos = `http://${url}:3000/photos`;
-// export const urlCsv = `http://${url}:3000/photos`;
-
 
 export default instance;
 

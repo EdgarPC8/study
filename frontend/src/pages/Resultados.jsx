@@ -10,6 +10,7 @@ import {
 } from "@mui/material";
 import { getAllStudy } from '../api/StudyResquest';
 import Panel from "../components/Panel";
+import DataTable from "../components/DataTable";
 
 
 function Resultados() {
@@ -18,6 +19,23 @@ function Resultados() {
 
   const [data, setData] = useState([]);
   const [respuestasMalas, setRespuestasMalas] = useState([]);
+  const [respuestasBuenas, setRespuestasBuenas] = useState([]);
+  const [respuestasVacias, setRespuestasVacias] = useState([]);
+  const [total, setTotal] = useState([]);
+
+  async function fetchData() {
+    try {
+      const resStudy = await getAllStudy();
+      setData(resStudy.data);
+    } catch (error) {
+      console.error("Error al obtener datos académicos:", error);
+    }
+  }
+
+  useEffect(() => {
+    fetchData();
+  }, []);
+
 
   const correctPassword = "04661598";
 
@@ -41,13 +59,20 @@ function Resultados() {
         const valor2 = parseFloat(item.valor2) || 0;
         const resultado = parseFloat(item.resultado) || 0;
         const suma = valor1 + valor2;
-        const isCorrect = suma === resultado;
-        return { ...item, isCorrect };
+        const isCorrect = !isNaN(resultado) && suma === resultado;
+        const isEmpty = item.resultado==null;
+        return { ...item, isCorrect, isEmpty };
       });
       setData(formattedData);
 
-      const incorrectAnswers = formattedData.filter(item => !item.isCorrect);
+      const incorrectAnswers = formattedData.filter(item => !item.isCorrect && !item.isEmpty);
+      const correctAnswers = formattedData.filter(item => item.isCorrect);
+      const emptyAnswers = formattedData.filter(item => item.isEmpty);
+
       setRespuestasMalas(incorrectAnswers);
+      setRespuestasBuenas(correctAnswers);
+      setRespuestasVacias(emptyAnswers);
+      setTotal(formattedData.length)
     } catch (error) {
       console.error("Error al obtener datos académicos:", error);
     }
@@ -58,6 +83,57 @@ function Resultados() {
       fetchData();
     }
   }, [isAuthenticated]);
+
+  const columns = [
+    {
+      headerName: "#",
+      field: "id",
+      width: 50,
+      editable: true,
+    },
+    {
+      headerName: "Opercion",
+      field: "operacion",
+      width: 100,
+      editable: true,
+    },
+    {
+      headerName: "Valor 1",
+      field: "valor1",
+      width: 100,
+      editable: true,
+    },
+    {
+      headerName: "Valor 2",
+      field: "valor2",
+      width: 100,
+    },
+    
+    {
+      headerName: "Resultado",
+      field: "resultado",
+      width: 200,
+      sortable: false,
+      renderCell: (params) => {
+        const valor1 = params.row.valor1;
+        const valor2 = params.row.valor2;
+        const resultado = params.row.resultado;
+    
+        // Calcula el resultado directamente
+        const result = (parseInt(valor1) + parseInt(valor2) === parseInt(resultado)) ? 'Bien' : 'Mal';
+    
+        return (
+          <Box>
+            {result}
+          </Box>
+        );
+      },
+    }
+    
+    
+
+  ];
+
 
   return (
     <Container
@@ -101,11 +177,18 @@ function Resultados() {
               Resultados
             </Typography>
             <Typography variant="h6">
-              Número de respuestas correctas: {data.length - respuestasMalas.length}
+              Número de respuestas correctas: {respuestasBuenas.length}
             </Typography>
             <Typography variant="h6">
               Número de respuestas incorrectas: {respuestasMalas.length}
             </Typography>
+            <Typography variant="h6">
+              Número de respuestas vacías: {respuestasVacias.length}
+            </Typography>
+            <Typography variant="h6">
+              Total de respuestas: {total}
+            </Typography>
+            <DataTable columns={columns} data={data} />
           </Box>
         )}
       </Box>
