@@ -9,6 +9,8 @@ import {
   Box,
 } from "@mui/material";
 import { getAllStudy } from '../api/StudyResquest';
+import Panel from "../components/Panel";
+
 
 function Resultados() {
   const [inputPassword, setInputPassword] = useState("");
@@ -71,7 +73,7 @@ function Resultados() {
             <Grid container spacing={3}>
               <Grid item xs={12}>
                 <TextField
-                  type="password"
+                  type="number"
                   label="Contraseña"
                   variant="outlined"
                   fullWidth
@@ -93,6 +95,8 @@ function Resultados() {
           </Paper>
         ) : (
           <Box textAlign="center">
+            <Panel/>
+
             <Typography variant="h4" gutterBottom>
               Resultados
             </Typography>

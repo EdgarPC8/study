@@ -2,14 +2,17 @@ import { Router } from "express";
 import {
   getAllStudy,
   editStudy,
-  addStudy
+  addStudy,
+  deleteStudyAll
 } from "../controllers/studyController.js";
 
 const router = Router();
 
 router.get("/getAllStudy", getAllStudy);
-router.get("/addStudy", addStudy);
+router.post("/addStudy", addStudy);
 router.put("/editStudy/:id", editStudy);
+router.delete("/deleteStudyAll", deleteStudyAll);
+
 
 // router.get("/getStudy/:idProfessional", getQuizByMatrizProfessional);
 // router.post("/getMatrizFilter", getMatrizFilter);

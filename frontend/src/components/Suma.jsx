@@ -39,19 +39,25 @@ function Suma() {
     {
       headerName: "#",
       field: "id",
-      width: 200,
+      width: 50,
+      editable: true,
+    },
+    {
+      headerName: "Opercion",
+      field: "operacion",
+      width: 100,
       editable: true,
     },
     {
       headerName: "Valor 1",
       field: "valor1",
-      width: 200,
+      width: 100,
       editable: true,
     },
     {
       headerName: "Valor 2",
       field: "valor2",
-      width: 200,
+      width: 100,
     },
     
     {
@@ -74,6 +80,7 @@ function Suma() {
         return (
           <TextField
             value={value}
+            type="number"
             onChange={(e) => setValue(e.target.value)}
             onBlur={handleBlur}
             variant="outlined"
