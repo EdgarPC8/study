@@ -13,10 +13,10 @@ import Button from "@mui/material/Button";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
 import MenuBookIcon from '@mui/icons-material/MenuBook';
+import Clock from './Clock'; // Importa el componente del reloj
 
 function NavBar() {
   const [anchorElNav, setAnchorElNav] = useState(null);
-  const [anchorElUser, setAnchorElUser] = useState(null);
   const [anchorElMenu, setAnchorElMenu] = useState(null);
 
   const handleOpenNavMenu = (event) => {
@@ -45,19 +45,19 @@ function NavBar() {
         name: "Resultados",
         link: "/resultados",
       },
-    //   {
-    //     name: "Tablas",
-    //     menu: {
-    //       items: [
-    //         { name: "Metros", link: "/metros" },
-    //         { name: "Pruebas", link: "/pruebas" },
-    //         { name: "Tiempos", link: "/tiempos" },
-    //         { name: "Nadadores", link: "/nadadores" },
-    //         { name: "Institucion", link: "/institucion" },
-    //         { name: "Usuarios", link: "/usuarios" },
-    //       ],
-    //     },
-    //   },
+      // {
+      //   name: "Tablas",
+      //   menu: {
+      //     items: [
+      //       { name: "Metros", link: "/metros" },
+      //       { name: "Pruebas", link: "/pruebas" },
+      //       { name: "Tiempos", link: "/tiempos" },
+      //       { name: "Nadadores", link: "/nadadores" },
+      //       { name: "Institucion", link: "/institucion" },
+      //       { name: "Usuarios", link: "/usuarios" },
+      //     ],
+      //   },
+      // },
     ],
   };
 
@@ -180,6 +180,8 @@ function NavBar() {
               )
             ))}
           </Box>
+          {/* Reloj agregado aquí */}
+          <Clock/>
         </Toolbar>
       </Box>
     </AppBar>

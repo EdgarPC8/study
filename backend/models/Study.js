@@ -32,6 +32,10 @@ export const Study = sequelize.define(
             type: DataTypes.STRING(30),
             allowNull: true,
         },
+        tiempo: {
+            type: DataTypes.STRING(30),
+            allowNull: true,
+        },
     },
     {
         timestamps: false,

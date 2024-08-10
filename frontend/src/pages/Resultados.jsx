@@ -108,8 +108,6 @@ function Resultados() {
       field: "valor2",
       width: 100,
     },
-
-    
     {
       headerName: "Resultado",
       field: "resultado",

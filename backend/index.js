@@ -47,7 +47,7 @@ app.use("/api/study", studyRoutes);
 async function main() {
   try {
     await sequelize.authenticate();
-    // await sequelize.sync({ force: true });
+    await sequelize.sync({ force: true });
     // await insertData();
     // await consoleData();
     console.log("Conección realizada con éxito.");
