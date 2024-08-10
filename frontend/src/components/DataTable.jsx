@@ -12,12 +12,13 @@ function DataTable({ data, columns }) {
       <DataGrid
         rows={data}
         columns={columns}
+        rowHeight={120} 
         initialState={{
           pagination: {
-            paginationModel: { page: 0, pageSize: 10 },
+            paginationModel: { page: 0, pageSize: 5 },
           },
         }}
-        pageSizeOptions={[10, 25, 50, 100]}
+        pageSizeOptions={[5, 10, 50, 100]}
       />
     </div>
   );

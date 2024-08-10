@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import { TextField, Typography, Container } from "@mui/material";
-import { getAllStudy,editStudy } from '../api/StudyResquest';
+import { TextField, Typography, Container, Box } from "@mui/material";
+import { getAllStudy, editStudy } from '../api/StudyResquest';
 import DataTable from "./DataTable";
 
 function Suma() {
@@ -43,59 +43,57 @@ function Suma() {
       editable: true,
     },
     {
-      headerName: "Opercion",
+      headerName: "Operacion",
       field: "operacion",
       width: 100,
       editable: true,
     },
     {
-      headerName: "Valor 1",
+      headerName: "Proceso",
       field: "valor1",
-      width: 100,
-      editable: true,
-    },
-    {
-      headerName: "Valor 2",
-      field: "valor2",
-      width: 100,
-    },
-    
-    {
-      headerName: "Resultado",
-      field: "resultado",
-      width: 200,
+      width: 150,
       sortable: false,
       renderCell: (params) => {
-        const [value, setValue] = useState(params.value || "");
+        const [value, setValue] = useState(params.row.resultado || "");
+
 
         const handleBlur = () => {
           if (value.trim()) {
-            const id=params.row.id
-            const obj={resultado:value}
-            console.log(value,params.row.id);
-            editStudy(id,obj)
+            const id = params.row.id;
+            const obj = { resultado: value };
+            console.log(value, params.row.id);
+            editStudy(id, obj);
           }
         };
-
+        const valor1 = params.row.valor1;
+        const valor2 = params.row.valor2;
         return (
-          <TextField
-            value={value}
-            type="number"
-            onChange={(e) => setValue(e.target.value)}
-            onBlur={handleBlur}
-            variant="outlined"
-            fullWidth
-          />
+
+          <Box gap={1}>
+            <Box display="flex" flexDirection="column" alignItems="flex-end" width="100%">
+              <Typography>{valor1}</Typography>
+              <Typography>{valor2}</Typography>
+            </Box>
+            <TextField
+              value={value}
+              type="number"
+              onChange={(e) => setValue(e.target.value)}
+              onBlur={handleBlur}
+              variant="outlined"
+              fullWidth
+            />
+          </Box>
+
+      
         );
       },
     },
-    
-
+  
   ];
 
   return (
     <Container>
-      <Typography variant="h4" align="center" style={{ marginBottom: 16 }}>
+      <Typography variant="h4" align="center" sx={{ marginBottom: 2 }}>
         Hora actual: {formatTime(currentTime)}
       </Typography>
       <DataTable columns={columns} data={data} />
