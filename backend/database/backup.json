@@ -1,0 +1,1264 @@
+{
+  "StudyBackup": [
+    {
+      "id": 1,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 117,
+      "valor2": 59,
+      "resultado": null
+    },
+    {
+      "id": 2,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 657,
+      "valor2": 81,
+      "resultado": null
+    },
+    {
+      "id": 3,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 214,
+      "valor2": 49,
+      "resultado": null
+    },
+    {
+      "id": 4,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 305,
+      "valor2": 72,
+      "resultado": null
+    },
+    {
+      "id": 5,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 492,
+      "valor2": 91,
+      "resultado": null
+    },
+    {
+      "id": 6,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 764,
+      "valor2": 38,
+      "resultado": null
+    },
+    {
+      "id": 7,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 530,
+      "valor2": 26,
+      "resultado": null
+    },
+    {
+      "id": 8,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 823,
+      "valor2": 41,
+      "resultado": null
+    },
+    {
+      "id": 9,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 129,
+      "valor2": 90,
+      "resultado": null
+    },
+    {
+      "id": 10,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 681,
+      "valor2": 57,
+      "resultado": null
+    },
+    {
+      "id": 11,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 210,
+      "valor2": 78,
+      "resultado": null
+    },
+    {
+      "id": 12,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 344,
+      "valor2": 83,
+      "resultado": null
+    },
+    {
+      "id": 13,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 415,
+      "valor2": 12,
+      "resultado": null
+    },
+    {
+      "id": 14,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 930,
+      "valor2": 50,
+      "resultado": null
+    },
+    {
+      "id": 15,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 541,
+      "valor2": 65,
+      "resultado": null
+    },
+    {
+      "id": 16,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 328,
+      "valor2": 37,
+      "resultado": null
+    },
+    {
+      "id": 17,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 771,
+      "valor2": 28,
+      "resultado": null
+    },
+    {
+      "id": 18,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 482,
+      "valor2": 54,
+      "resultado": null
+    },
+    {
+      "id": 19,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 634,
+      "valor2": 23,
+      "resultado": null
+    },
+    {
+      "id": 20,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 175,
+      "valor2": 46,
+      "resultado": null
+    },
+    {
+      "id": 21,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 501,
+      "valor2": 93,
+      "resultado": null
+    },
+    {
+      "id": 22,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 282,
+      "valor2": 16,
+      "resultado": null
+    },
+    {
+      "id": 23,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 776,
+      "valor2": 72,
+      "resultado": null
+    },
+    {
+      "id": 24,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 350,
+      "valor2": 30,
+      "resultado": null
+    },
+    {
+      "id": 25,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 129,
+      "valor2": 69,
+      "resultado": null
+    },
+    {
+      "id": 26,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 567,
+      "valor2": 82,
+      "resultado": null
+    },
+    {
+      "id": 27,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 695,
+      "valor2": 47,
+      "resultado": null
+    },
+    {
+      "id": 28,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 708,
+      "valor2": 35,
+      "resultado": null
+    },
+    {
+      "id": 29,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 109,
+      "valor2": 53,
+      "resultado": null
+    },
+    {
+      "id": 30,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 426,
+      "valor2": 24,
+      "resultado": null
+    },
+    {
+      "id": 31,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 590,
+      "valor2": 62,
+      "resultado": null
+    },
+    {
+      "id": 32,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 281,
+      "valor2": 58,
+      "resultado": null
+    },
+    {
+      "id": 33,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 319,
+      "valor2": 14,
+      "resultado": null
+    },
+    {
+      "id": 34,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 478,
+      "valor2": 39,
+      "resultado": null
+    },
+    {
+      "id": 35,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 654,
+      "valor2": 26,
+      "resultado": null
+    },
+    {
+      "id": 36,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 391,
+      "valor2": 48,
+      "resultado": null
+    },
+    {
+      "id": 37,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 247,
+      "valor2": 79,
+      "resultado": null
+    },
+    {
+      "id": 38,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 526,
+      "valor2": 44,
+      "resultado": null
+    },
+    {
+      "id": 39,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 739,
+      "valor2": 15,
+      "resultado": null
+    },
+    {
+      "id": 40,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 350,
+      "valor2": 57,
+      "resultado": null
+    },
+    {
+      "id": 41,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 605,
+      "valor2": 91,
+      "resultado": null
+    },
+    {
+      "id": 42,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 183,
+      "valor2": 33,
+      "resultado": null
+    },
+    {
+      "id": 43,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 740,
+      "valor2": 19,
+      "resultado": null
+    },
+    {
+      "id": 44,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 892,
+      "valor2": 60,
+      "resultado": null
+    },
+    {
+      "id": 45,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 274,
+      "valor2": 86,
+      "resultado": null
+    },
+    {
+      "id": 46,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 310,
+      "valor2": 21,
+      "resultado": null
+    },
+    {
+      "id": 47,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 503,
+      "valor2": 18,
+      "resultado": null
+    },
+    {
+      "id": 48,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 646,
+      "valor2": 29,
+      "resultado": null
+    },
+    {
+      "id": 49,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 831,
+      "valor2": 77,
+      "resultado": null
+    },
+    {
+      "id": 50,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 136,
+      "valor2": 50,
+      "resultado": null
+    },
+    {
+      "id": 51,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 427,
+      "valor2": 73,
+      "resultado": null
+    },
+    {
+      "id": 52,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 204,
+      "valor2": 64,
+      "resultado": null
+    },
+    {
+      "id": 53,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 375,
+      "valor2": 45,
+      "resultado": null
+    },
+    {
+      "id": 54,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 553,
+      "valor2": 32,
+      "resultado": null
+    },
+    {
+      "id": 55,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 649,
+      "valor2": 11,
+      "resultado": null
+    },
+    {
+      "id": 56,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 309,
+      "valor2": 27,
+      "resultado": null
+    },
+    {
+      "id": 57,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 478,
+      "valor2": 71,
+      "resultado": null
+    },
+    {
+      "id": 58,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 613,
+      "valor2": 40,
+      "resultado": null
+    },
+    {
+      "id": 59,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 702,
+      "valor2": 89,
+      "resultado": null
+    },
+    {
+      "id": 60,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 149,
+      "valor2": 34,
+      "resultado": null
+    },
+    {
+      "id": 61,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 460,
+      "valor2": 23,
+      "resultado": null
+    },
+    {
+      "id": 62,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 274,
+      "valor2": 55,
+      "resultado": null
+    },
+    {
+      "id": 63,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 527,
+      "valor2": 10,
+      "resultado": null
+    },
+    {
+      "id": 64,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 619,
+      "valor2": 28,
+      "resultado": null
+    },
+    {
+      "id": 65,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 758,
+      "valor2": 41,
+      "resultado": null
+    },
+    {
+      "id": 66,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 195,
+      "valor2": 13,
+      "resultado": null
+    },
+    {
+      "id": 67,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 301,
+      "valor2": 74,
+      "resultado": null
+    },
+    {
+      "id": 68,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 642,
+      "valor2": 31,
+      "resultado": null
+    },
+    {
+      "id": 69,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 381,
+      "valor2": 24,
+      "resultado": null
+    },
+    {
+      "id": 70,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 170,
+      "valor2": 88,
+      "resultado": null
+    },
+    {
+      "id": 71,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 739,
+      "valor2": 56,
+      "resultado": null
+    },
+    {
+      "id": 72,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 516,
+      "valor2": 35,
+      "resultado": null
+    },
+    {
+      "id": 73,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 228,
+      "valor2": 14,
+      "resultado": null
+    },
+    {
+      "id": 74,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 430,
+      "valor2": 46,
+      "resultado": null
+    },
+    {
+      "id": 75,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 673,
+      "valor2": 58,
+      "resultado": null
+    },
+    {
+      "id": 76,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 705,
+      "valor2": 13,
+      "resultado": null
+    },
+    {
+      "id": 77,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 227,
+      "valor2": 23,
+      "resultado": null
+    },
+    {
+      "id": 78,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 712,
+      "valor2": 62,
+      "resultado": null
+    },
+    {
+      "id": 79,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 588,
+      "valor2": 39,
+      "resultado": null
+    },
+    {
+      "id": 80,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 187,
+      "valor2": 78,
+      "resultado": null
+    },
+    {
+      "id": 81,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 389,
+      "valor2": 43,
+      "resultado": null
+    },
+    {
+      "id": 82,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 286,
+      "valor2": 66,
+      "resultado": null
+    },
+    {
+      "id": 83,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 401,
+      "valor2": 10,
+      "resultado": null
+    },
+    {
+      "id": 84,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 355,
+      "valor2": 11,
+      "resultado": null
+    },
+    {
+      "id": 85,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 136,
+      "valor2": 68,
+      "resultado": null
+    },
+    {
+      "id": 86,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 459,
+      "valor2": 35,
+      "resultado": null
+    },
+    {
+      "id": 87,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 364,
+      "valor2": 49,
+      "resultado": null
+    },
+    {
+      "id": 88,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 496,
+      "valor2": 75,
+      "resultado": null
+    },
+    {
+      "id": 89,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 442,
+      "valor2": 58,
+      "resultado": null
+    },
+    {
+      "id": 90,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 160,
+      "valor2": 41,
+      "resultado": null
+    },
+    {
+      "id": 91,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 195,
+      "valor2": 33,
+      "resultado": null
+    },
+    {
+      "id": 92,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 459,
+      "valor2": 55,
+      "resultado": null
+    },
+    {
+      "id": 93,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 184,
+      "valor2": 42,
+      "resultado": null
+    },
+    {
+      "id": 94,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 389,
+      "valor2": 77,
+      "resultado": null
+    },
+    {
+      "id": 95,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 637,
+      "valor2": 33,
+      "resultado": null
+    },
+    {
+      "id": 96,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 732,
+      "valor2": 78,
+      "resultado": null
+    },
+    {
+      "id": 97,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 182,
+      "valor2": 15,
+      "resultado": null
+    },
+    {
+      "id": 98,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 499,
+      "valor2": 77,
+      "resultado": null
+    },
+    {
+      "id": 99,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 485,
+      "valor2": 77,
+      "resultado": null
+    },
+    {
+      "id": 100,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 593,
+      "valor2": 62,
+      "resultado": null
+    },
+    {
+      "id": 101,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 345,
+      "valor2": 12,
+      "resultado": null
+    },
+    {
+      "id": 102,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 456,
+      "valor2": 23,
+      "resultado": null
+    },
+    {
+      "id": 103,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 567,
+      "valor2": 34,
+      "resultado": null
+    },
+    {
+      "id": 104,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 678,
+      "valor2": 45,
+      "resultado": null
+    },
+    {
+      "id": 105,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 789,
+      "valor2": 56,
+      "resultado": null
+    },
+    {
+      "id": 106,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 890,
+      "valor2": 67,
+      "resultado": null
+    },
+    {
+      "id": 107,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 901,
+      "valor2": 78,
+      "resultado": null
+    },
+    {
+      "id": 108,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 123,
+      "valor2": 89,
+      "resultado": null
+    },
+    {
+      "id": 109,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 234,
+      "valor2": 90,
+      "resultado": null
+    },
+    {
+      "id": 110,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 345,
+      "valor2": 12,
+      "resultado": null
+    },
+    {
+      "id": 111,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 456,
+      "valor2": 23,
+      "resultado": null
+    },
+    {
+      "id": 112,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 567,
+      "valor2": 34,
+      "resultado": null
+    },
+    {
+      "id": 113,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 678,
+      "valor2": 45,
+      "resultado": null
+    },
+    {
+      "id": 114,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 789,
+      "valor2": 56,
+      "resultado": null
+    },
+    {
+      "id": 115,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 890,
+      "valor2": 67,
+      "resultado": null
+    },
+    {
+      "id": 116,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 901,
+      "valor2": 78,
+      "resultado": null
+    },
+    {
+      "id": 117,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 123,
+      "valor2": 89,
+      "resultado": null
+    },
+    {
+      "id": 118,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 234,
+      "valor2": 90,
+      "resultado": null
+    },
+    {
+      "id": 119,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 345,
+      "valor2": 12,
+      "resultado": null
+    },
+    {
+      "id": 120,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 456,
+      "valor2": 23,
+      "resultado": null
+    },
+    {
+      "id": 121,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 567,
+      "valor2": 34,
+      "resultado": null
+    },
+    {
+      "id": 122,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 678,
+      "valor2": 45,
+      "resultado": null
+    },
+    {
+      "id": 123,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 789,
+      "valor2": 56,
+      "resultado": null
+    },
+    {
+      "id": 124,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 890,
+      "valor2": 67,
+      "resultado": null
+    },
+    {
+      "id": 125,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 901,
+      "valor2": 78,
+      "resultado": null
+    },
+    {
+      "id": 126,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 123,
+      "valor2": 89,
+      "resultado": null
+    },
+    {
+      "id": 127,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 234,
+      "valor2": 90,
+      "resultado": null
+    },
+    {
+      "id": 128,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 345,
+      "valor2": 12,
+      "resultado": null
+    },
+    {
+      "id": 129,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 456,
+      "valor2": 23,
+      "resultado": null
+    },
+    {
+      "id": 130,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 567,
+      "valor2": 34,
+      "resultado": null
+    },
+    {
+      "id": 131,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 678,
+      "valor2": 45,
+      "resultado": null
+    },
+    {
+      "id": 132,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 789,
+      "valor2": 56,
+      "resultado": null
+    },
+    {
+      "id": 133,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 890,
+      "valor2": 67,
+      "resultado": null
+    },
+    {
+      "id": 134,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 901,
+      "valor2": 78,
+      "resultado": null
+    },
+    {
+      "id": 135,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 123,
+      "valor2": 89,
+      "resultado": null
+    },
+    {
+      "id": 136,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 234,
+      "valor2": 90,
+      "resultado": null
+    },
+    {
+      "id": 137,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 345,
+      "valor2": 12,
+      "resultado": null
+    },
+    {
+      "id": 138,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 456,
+      "valor2": 23,
+      "resultado": null
+    },
+    {
+      "id": 139,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 567,
+      "valor2": 34,
+      "resultado": null
+    },
+    {
+      "id": 140,
+      "fecha_inicio": "2000-07-15 19:00:00",
+      "fecha_fin": "2000-07-15 21:59:59",
+      "operacion": "SUMA",
+      "valor1": 678,
+      "valor2": 45,
+      "resultado": null
+    }
+  ]
+}
